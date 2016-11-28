@@ -31,6 +31,9 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yvv-Ru-yOl">
                                 <rect key="frame" x="110" y="456" width="155" height="155"/>
                                 <state key="normal" image="Stop"/>
+                                <connections>
+                                    <action selector="StopRecordAudio:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aKM-Ko-jSP"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4dI-Me-t6B">
                                 <rect key="frame" x="52" y="256" width="270" height="155"/>
