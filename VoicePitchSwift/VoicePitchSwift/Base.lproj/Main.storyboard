@@ -33,6 +33,7 @@
                                 <state key="normal" image="Stop"/>
                                 <connections>
                                     <action selector="StopRecordAudio:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aKM-Ko-jSP"/>
+                                    <segue destination="5YM-pj-2XW" kind="show" id="yg3-Qm-D4d"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4dI-Me-t6B">
@@ -64,6 +65,24 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1076" y="137.18140929535232"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="GHw-Ef-6UW">
+            <objects>
+                <viewController id="5YM-pj-2XW" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="E58-8e-L3r"/>
+                        <viewControllerLayoutGuide type="bottom" id="cfZ-g8-qpg"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="I4L-zj-Jry">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.69316518389731874" green="0.85151161607044279" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="X6l-Ug-taH" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1876" y="142"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Ezi-lp-k5W">
