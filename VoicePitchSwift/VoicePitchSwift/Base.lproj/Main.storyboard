@@ -66,10 +66,10 @@
             </objects>
             <point key="canvasLocation" x="1076" y="137.18140929535232"/>
         </scene>
-        <!--View Controller-->
+        <!--Play Sounds View Controller-->
         <scene sceneID="GHw-Ef-6UW">
             <objects>
-                <viewController id="5YM-pj-2XW" sceneMemberID="viewController">
+                <viewController id="5YM-pj-2XW" customClass="PlaySoundsViewController" customModule="VoicePitchSwift" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="E58-8e-L3r"/>
                         <viewControllerLayoutGuide type="bottom" id="cfZ-g8-qpg"/>
