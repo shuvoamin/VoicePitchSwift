@@ -59,7 +59,7 @@
                         <outlet property="RecordAudio" destination="4dI-Me-t6B" id="IY6-YX-0Pd"/>
                         <outlet property="RecordAudioHelperLabel" destination="oGG-6U-rSI" id="fiR-vd-EqG"/>
                         <outlet property="StopRecordAudio" destination="yvv-Ru-yOl" id="Rbp-aD-ZuT"/>
-                        <segue destination="5YM-pj-2XW" kind="show" identifier="stopRecording" id="1bt-iP-BrT"/>
+                        <segue destination="5YM-pj-2XW" kind="show" identifier="StopRecordAudio" id="1bt-iP-BrT"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
