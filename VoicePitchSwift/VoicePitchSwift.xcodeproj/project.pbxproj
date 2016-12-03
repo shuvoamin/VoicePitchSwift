@@ -199,6 +199,7 @@
 				TargetAttributes = {
 					869838F11DEB4C8000FB15CD = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = YTMPSH79TE;
 						ProvisioningStyle = Automatic;
 					};
 					869839051DEB4C8100FB15CD = {
@@ -420,6 +421,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YTMPSH79TE;
 				INFOPLIST_FILE = VoicePitchSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = shuvoamin.VoicePitchSwift;
@@ -432,6 +434,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YTMPSH79TE;
 				INFOPLIST_FILE = VoicePitchSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = shuvoamin.VoicePitchSwift;
