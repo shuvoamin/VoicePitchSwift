@@ -1,3 +1,1 @@
 # VoicePitchSwift
-
-Development in progress ...
